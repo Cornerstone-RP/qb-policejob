@@ -27,7 +27,7 @@ Config.Objects = {
 
 Config.Locations = {
     duty = {
-        vector3(-590.52917480469, -423.24591064453, 35.171897888184), -- LS
+        vector3(0, 0, 0), -- LS
     },
     vehicle = {
         vector4(0, 0, 0, 0), -- LS
